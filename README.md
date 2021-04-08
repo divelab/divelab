@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/divelab/divelab/blob/main/DIVE.jpeg" width="220" class="center" alt="logo"/>
+<img src="https://github.com/divelab/divelab/blob/main/DIVE.jpeg" width="360" class="center" alt="logo"/>
     <br/>
 </p>
 
