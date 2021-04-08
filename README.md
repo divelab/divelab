@@ -3,12 +3,10 @@
     <br/>
 </p>
 
-Welcome to the Data Integration, Visualization, and Exploration (DIVE) Laboratory. Our research interests include machine learning, deep learning, data mining, and computational biology, etc. 
-Specifically, we focus on many aspects in graph deep learning, such as graph generation, self-supervised learning, explainability, and 3D graphs, 
-with applications on molecule generation and property prediction, etc.
+The Data Integration, Visualization, and Exploration (DIVE) Laboratory at Texas A&M University is led by [Dr. Shuiwang Ji](http://people.tamu.edu/~sji/ "Dr. Shuiwang Ji") and conducts foundational research in machine learning and deep learning and applies machine learning methods to solve challenging real-world problems in biology, chemistry, neuroscience and medicine.
 
-**Highlight works**
+
+
+**Highlighted Work**
 * [DIG: A Turnkey Library for Diving into Graph Deep Learning Research](https://github.com/divelab/DIG)
 * [MoleculeKit](https://github.com/divelab/MoleculeKit)
-
-Please check more on our [Lab Website](http://people.tamu.edu/~sji/ "lab website")
