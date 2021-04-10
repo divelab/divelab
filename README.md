@@ -1,7 +1,7 @@
 <p align="center">
 <img src="https://github.com/divelab/divelab/blob/main/dive_logo.jpeg" width="360" class="center" alt="logo"/>
     <br/>
-Logo by Zhao Xu
+Logo by [Zhao Xu](https://zoexu119.github.io/)
 </p>
 
 The Data Integration, Visualization, and Exploration (DIVE) Laboratory at Texas A&M University is led by [Dr. Shuiwang Ji](http://people.tamu.edu/~sji/ "Dr. Shuiwang Ji") and conducts foundational research in machine learning and deep learning and applies machine learning methods to solve challenging real-world problems in biology, chemistry, neuroscience and medicine.
