@@ -10,4 +10,4 @@ The Data Integration, Visualization, and Exploration (DIVE) Laboratory at Texas 
 
 **Highlighted Work**
 * [DIG: A Turnkey Library for Diving into Graph Deep Learning Research](https://github.com/divelab/DIG)
-* [MoleculeProp: Advanced Graph and Sequence Neural Networks for Molecular Property Prediction and Drug Discovery](https://github.com/divelab/MoleculeProp)
+* [MoleculeX: Advanced Graph and Sequence Neural Networks for Molecular Property Prediction and Drug Discovery](https://github.com/divelab/MoleculeX)
