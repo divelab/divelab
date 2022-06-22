@@ -11,3 +11,4 @@ The Data Integration, Visualization, and Exploration (DIVE) Laboratory at Texas 
 **Highlighted Work**
 * [DIG: A Turnkey Library for Diving into Graph Deep Learning Research](https://github.com/divelab/DIG)
 * [MoleculeX: Advanced Graph and Sequence Neural Networks for Molecular Property Prediction and Drug Discovery](https://github.com/divelab/MoleculeX)
+* [GOOD: A graph out-of-distribution benchmark](https://github.com/divelab/GOOD)
